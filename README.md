@@ -10,3 +10,11 @@ A smash audio effect will be played for every successful hit.
 ## Technology
 This game is built using HTML, CSS and Javascript.
 
+## Future Implementations
+<ol>
+  <li>Addition of time limit
+</li>
+  <li>Display scoreboard after each round
+</li>
+
+</ol>
