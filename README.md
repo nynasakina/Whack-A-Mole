@@ -1,4 +1,4 @@
-# Whack-A-Mole!
+# 🔨 Whack-A-Mole!
 Taking the classic arcade game to the web. <br><br>
 ![Whack-a-mole](https://i.ibb.co/qRbB632/Screenshot-2022-05-10-at-11-52-20-AM.png)<br>
 <em>Screenshot of the game interface</em>
